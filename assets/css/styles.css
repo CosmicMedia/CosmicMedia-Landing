@@ -250,9 +250,17 @@
   
   .footer-basic .copyright {
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     color: #aaa;
     margin-bottom: 0;
   }
   
-    
+  .footer-basic .privacy {
+    text-align: center;
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 10px;
+    width: 100%;
+    display: block;
+  }
+  
